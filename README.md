@@ -9,6 +9,7 @@ python train_chatbot.py
 ## Final UI 
 python chatgui.py
 ## Description 
-chatgui contains front end of the project that is UI and train_chatbot is Sequential Neural Network Model
-intents.json contains dataset
-requirements dependencies with the versions
+- chatgui contains front end of the project that is UI and train_chatbot is Sequential Neural Network Model
+- intents.json contains dataset
+- requirements contains dependencies with their versions which help in executing project successfully
+
